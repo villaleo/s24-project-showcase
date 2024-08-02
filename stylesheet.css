@@ -1,0 +1,34 @@
+:root {
+  --magenta: #aa2c86;
+}
+
+nav .btn {
+  background-color: var(--magenta);
+  color: white;
+}
+
+.team-img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+}
+
+#define-front-end .btn {
+  color: #aa2c86;
+}
+
+.clamp-line-1 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.clamp-line-2 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
