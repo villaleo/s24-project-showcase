@@ -127,8 +127,9 @@ searchbar.focus();
 searchbar.addEventListener("keyup", search);
 
 function appendProjectToSite(project) {
+  const maybeBottomPadding = project.overview.length < 50 ? "pb-4" : "";
   const projectColumn = `
-    <div class="col-11 col-sm-6 col-lg-4 p-2">
+    <div class="col-11 col-sm-6 col-lg-4 p-3">
       <div class="card">
         <div class="card-body p-3">
           <a
@@ -139,10 +140,13 @@ function appendProjectToSite(project) {
             <img
               class="card-img-top img-thumbnail"
               src="${project.previewUrl}"
+              style="height: 175px; object-fit: contain;"
               alt="A preview of ${project.memberFullName}'s website."
             />
             <h5 class="card-title clamp-line-1 mt-2">${project.name}</h5>
-            <p class="clamp-line-2">${project.overview}</p>
+            <p class="clamp-line-2 ${maybeBottomPadding}">
+              ${project.overview}
+            </p>
             <h6 class="card-subtitle text-muted">
               Created by <span>${project.memberFullName}</span>
             </h6>
@@ -175,4 +179,12 @@ function search() {
       ? "block"
       : "none";
   }
+}
+
+function padWhitespace(n) {
+  let whitespace = "";
+  for (let i = 0; i < n; i++) {
+    whitespace += "k";
+  }
+  return whitespace;
 }
