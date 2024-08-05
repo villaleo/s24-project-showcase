@@ -2,8 +2,7 @@ const memberProjects = [
   {
     memberFullName: "Samuel",
     name: "Animepedia",
-    overview:
-      "functions as an encylclopedia for different popular anime and from what they are about to the production studio.",
+    overview: "An encyclopedia for popular anime.",
     repoUrl: "https://github.com/floresamuelo/animepedia",
     websiteUrl: "https://floresamuelo.github.io/animepedia/",
     site: "Salinas",
@@ -12,7 +11,7 @@ const memberProjects = [
   {
     memberFullName: "Diego Barreto-Anaya",
     name: "Travel Web",
-    overview: "A travel website - booking to places?",
+    overview: "A travel website for booking trips.",
     repoUrl: "https://github.com/DiegoB1624/website-template>",
     websiteUrl: "https://diegob1624.github.io/website-template/",
     site: "Watsonville",
@@ -22,7 +21,7 @@ const memberProjects = [
     memberFullName: "Jared Esquivel",
     name: "Visit Kauai Now",
     overview:
-      "This is my first website that I have coded and it is about the island of Kauai which is one of the Hawaiian islands.In my website I have different images of the island of Kauai and text explaining them.",
+      "A website about the island of Kauai, featuring images and descriptions.",
     repoUrl: "https://jared-esquivel.github.io/Visit-Kauai-now/",
     websiteUrl: "https://jared-esquivel.github.io/Visit-Kauai-now/",
     site: "Watsonville",
@@ -31,8 +30,7 @@ const memberProjects = [
   {
     memberFullName: "Manuel",
     name: "Animepedia",
-    overview:
-      "It is an anime database that tell you about anime and you are able to search for a specific anime using the search function",
+    overview: "An anime database with a search function for specific anime.",
     repoUrl: "https://github.com/floresamuelo/animepedia",
     websiteUrl: "https://floresamuelo.github.io/animepedia/",
     site: "Salinas",
@@ -41,7 +39,7 @@ const memberProjects = [
   {
     memberFullName: "Gabriel G.S",
     name: "Alpha Lion Project",
-    overview: "Store",
+    overview: "An online store with dietary supplements.",
     repoUrl: "https://github.com/fidelgabe/s24-Alpha-Lion-Project",
     websiteUrl: "https://fidelgabe.github.io/s24-Alpha-Lion-Project/",
     site: "Salinas",
@@ -50,7 +48,7 @@ const memberProjects = [
   {
     memberFullName: "Fernanda Jordan",
     name: "Rose Apothecary",
-    overview: "homepage of a local store",
+    overview: "Homepage of a local store.",
     repoUrl: "https://github.com/fernandajordan/rose-apothecarys24",
     websiteUrl: "https://fernandajordan.github.io/rose-apothecarys24/",
     site: "Watsonville",
@@ -60,17 +58,17 @@ const memberProjects = [
     memberFullName: "Eduardo Lira",
     name: "Remind Me",
     overview:
-      "Its about a todo list which you can add different goals and objectives that might be in your day or week",
+      "A to-do list for adding goals and objectives for your day or week.",
     repoUrl: "https://github.com/Trillducks/Remind-Me-website",
     websiteUrl: "https://trillducks.github.io/Remind-Me-website/#",
     site: "Watsonville",
     previewUrl: "assets/images/preview-eddie.png",
   },
   {
-    memberFullName: "Fabian lozano",
-    name: "Olymipic Country Code Search",
+    memberFullName: "Fabian Lozano",
+    name: "Olympic Country Code Search",
     overview:
-      "My project is about looking up the Countries that participated in the Olymipics as well with their Ioc code next to it",
+      "Look up countries that participated in the Olympics and their IOC codes.",
     repoUrl: "https://github.com/FabianDLozano/Olymipic_Country-Code_Search",
     websiteUrl: "https://fabiandlozano.github.io/Olymipic_Country-Code_Search/",
     site: "Salinas",
@@ -79,8 +77,7 @@ const memberProjects = [
   {
     memberFullName: "Sergio Jesus Medina-Ixta",
     name: "The World of Sergio",
-    overview:
-      "My Website is a showcase of all the things that surround me on a daily basis.",
+    overview: "A showcase of things that surround me daily.",
     repoUrl: "https://github.com/17sergio/S24-The-World-of-Sergio",
     websiteUrl: "https://17sergio.github.io/S24-The-World-of-Sergio/index.html",
     site: "Watsonville",
@@ -89,7 +86,7 @@ const memberProjects = [
   {
     memberFullName: "Cesar Zagal",
     name: "Apollo 11",
-    overview: "It is a website where you buy collectables",
+    overview: "A website for buying collectibles.",
     repoUrl: "https://github.com/CesarZagal2004/website-template",
     websiteUrl: "https://cesarzagal2004.github.io/website-template/>",
     site: "Salinas",
@@ -98,7 +95,7 @@ const memberProjects = [
   {
     memberFullName: "Alberto Zamora",
     name: "Gallery Stuff",
-    overview: "STUFF I find intresting.",
+    overview: "A gallery of interesting stuff.",
     repoUrl: "https://github.com/AlbertoZamora831/Gallary_Stuff",
     websiteUrl: "https://albertozamora831.github.io/Gallery_Stuff/",
     site: "Watsonville",
@@ -107,7 +104,7 @@ const memberProjects = [
   {
     memberFullName: "Xavier Perez",
     name: "Yeezy Storefront",
-    overview: "Recreated canceled yeezy store website",
+    overview: "A recreated Yeezy store website.",
     repoUrl: "https://github.com/Hyperfastcat/yeezy/tree/main",
     websiteUrl: "https://hyperfastcat.github.io/yeezy/index.html",
     site: "Watsonville",
