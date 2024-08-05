@@ -88,7 +88,7 @@ const memberProjects = [
     name: "Apollo 11",
     overview: "A website for buying collectibles.",
     repoUrl: "https://github.com/CesarZagal2004/website-template",
-    websiteUrl: "https://cesarzagal2004.github.io/website-template/>",
+    websiteUrl: "https://cesarzagal2004.github.io/website-template/",
     site: "Salinas",
     previewUrl: "assets/images/preview-cesar.png",
   },
