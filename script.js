@@ -1,17 +1,17 @@
 const memberProjects = [
   {
-    memberFullName: "Samual & Manuel",
-    name: "Anipedia",
+    memberFullName: "Samuel",
+    name: "Animepedia",
     overview:
       "functions as an encylclopedia for different popular anime and from what they are about to the production studio.",
     repoUrl: "https://github.com/floresamuelo/animepedia",
     websiteUrl: "https://floresamuelo.github.io/animepedia/",
     site: "Salinas",
-    previewUrl: "assets/images/previews/sam-man.png",
+    previewUrl: "assets/images/previews/samuel.png",
   },
   {
     memberFullName: "Diego Barreto-Anaya",
-    name: "travel-web",
+    name: "Travel Web",
     overview: "A travel website - booking to places?",
     repoUrl: "https://github.com/DiegoB1624/website-template>",
     websiteUrl: "https://diegob1624.github.io/website-template/",
@@ -20,11 +20,11 @@ const memberProjects = [
   },
   {
     memberFullName: "Jared Esquivel",
-    name: "Visit-Kauai-Now",
+    name: "Visit Kauai Now",
     overview:
       "This is my first website that I have coded and it is about the island of Kauai which is one of the Hawaiian islands.In my website I have different images of the island of Kauai and text explaining them.",
     repoUrl: "https://jared-esquivel.github.io/Visit-Kauai-now/",
-    websiteUrl: "Working on getting a link soon",
+    websiteUrl: "https://jared-esquivel.github.io/Visit-Kauai-now/",
     site: "Watsonville",
     previewUrl: "assets/images/previews/jared.png",
   },
@@ -36,11 +36,11 @@ const memberProjects = [
     repoUrl: "https://github.com/floresamuelo/animepedia",
     websiteUrl: "https://floresamuelo.github.io/animepedia/",
     site: "Salinas",
-    previewUrl: "assets/images/previews/sam-man.png",
+    previewUrl: "assets/images/previews/manuel.png",
   },
   {
     memberFullName: "Gabriel G.S",
-    name: "Alpha-Lion-Project",
+    name: "Alpha Lion Project",
     overview: "Store",
     repoUrl: "https://github.com/fidelgabe/s24-Alpha-Lion-Project",
     websiteUrl: "https://fidelgabe.github.io/s24-Alpha-Lion-Project/",
@@ -49,7 +49,7 @@ const memberProjects = [
   },
   {
     memberFullName: "Fernanda Jordan",
-    name: "rose-apothecarys24",
+    name: "Rose Apothecary",
     overview: "homepage of a local store",
     repoUrl: "https://github.com/fernandajordan/rose-apothecarys24",
     websiteUrl: "https://fernandajordan.github.io/rose-apothecarys24/",
@@ -68,7 +68,7 @@ const memberProjects = [
   },
   {
     memberFullName: "Fabian lozano",
-    name: "Olymipic_Country-Code_Search",
+    name: "Olymipic Country Code Search",
     overview:
       "My project is about looking up the Countries that participated in the Olymipics as well with their Ioc code next to it",
     repoUrl: "https://github.com/FabianDLozano/Olymipic_Country-Code_Search",
@@ -97,10 +97,10 @@ const memberProjects = [
   },
   {
     memberFullName: "Alberto Zamora",
-    name: "Gallary_Stuff",
+    name: "Gallery Stuff",
     overview: "STUFF I find intresting.",
     repoUrl: "https://github.com/AlbertoZamora831/Gallary_Stuff",
-    websiteUrl: "https://albertozamora831.github.io/Gallary_Stuff/",
+    websiteUrl: "https://albertozamora831.github.io/Gallery_Stuff/",
     site: "Watsonville",
     previewUrl: "assets/images/previews/alberto.png",
   },
