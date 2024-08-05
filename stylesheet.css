@@ -1,10 +1,27 @@
 :root {
   --magenta: #aa2c86;
+  --light-magenta: #ceafc5;
+  --light-green: #d3e6de;
 }
 
 nav .btn {
   background-color: var(--magenta);
   color: white;
+}
+
+header {
+  background-image: linear-gradient(
+    45deg,
+    var(--light-green),
+    white,
+    var(--light-magenta)
+  );
+  background-size: 220% 220%;
+  animation: rotate-gradient 10s linear infinite;
+}
+
+.D {
+  border: 1px solid red;
 }
 
 .team-img {
@@ -31,4 +48,22 @@ nav .btn {
   -webkit-line-clamp: 2;
   line-clamp: 2;
   -webkit-box-orient: vertical;
+}
+
+@keyframes rotate-gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  25% {
+    background-position: 50% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  75% {
+    background-position: 50% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
