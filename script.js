@@ -7,7 +7,7 @@ const memberProjects = [
     repoUrl: "https://github.com/floresamuelo/animepedia",
     websiteUrl: "https://floresamuelo.github.io/animepedia/",
     site: "Salinas",
-    previewUrl: "assets/images/previews/samuel.png",
+    previewUrl: "assets/images/preview-samuel.png",
   },
   {
     memberFullName: "Diego Barreto-Anaya",
@@ -16,7 +16,7 @@ const memberProjects = [
     repoUrl: "https://github.com/DiegoB1624/website-template>",
     websiteUrl: "https://diegob1624.github.io/website-template/",
     site: "Watsonville",
-    previewUrl: "assets/images/previews/diego.png",
+    previewUrl: "assets/images/preview-diego.png",
   },
   {
     memberFullName: "Jared Esquivel",
@@ -26,7 +26,7 @@ const memberProjects = [
     repoUrl: "https://jared-esquivel.github.io/Visit-Kauai-now/",
     websiteUrl: "https://jared-esquivel.github.io/Visit-Kauai-now/",
     site: "Watsonville",
-    previewUrl: "assets/images/previews/jared.png",
+    previewUrl: "assets/images/preview-jared.png",
   },
   {
     memberFullName: "Manuel",
@@ -36,7 +36,7 @@ const memberProjects = [
     repoUrl: "https://github.com/floresamuelo/animepedia",
     websiteUrl: "https://floresamuelo.github.io/animepedia/",
     site: "Salinas",
-    previewUrl: "assets/images/previews/manuel.png",
+    previewUrl: "assets/images/preview-manuel.png",
   },
   {
     memberFullName: "Gabriel G.S",
@@ -45,7 +45,7 @@ const memberProjects = [
     repoUrl: "https://github.com/fidelgabe/s24-Alpha-Lion-Project",
     websiteUrl: "https://fidelgabe.github.io/s24-Alpha-Lion-Project/",
     site: "Salinas",
-    previewUrl: "assets/images/previews/gabe.png",
+    previewUrl: "assets/images/preview-gabe.png",
   },
   {
     memberFullName: "Fernanda Jordan",
@@ -54,7 +54,7 @@ const memberProjects = [
     repoUrl: "https://github.com/fernandajordan/rose-apothecarys24",
     websiteUrl: "https://fernandajordan.github.io/rose-apothecarys24/",
     site: "Watsonville",
-    previewUrl: "assets/images/previews/fernanda.png",
+    previewUrl: "assets/images/preview-fernanda.png",
   },
   {
     memberFullName: "Eduardo Lira",
@@ -64,7 +64,7 @@ const memberProjects = [
     repoUrl: "https://github.com/Trillducks/Remind-Me-website",
     websiteUrl: "https://trillducks.github.io/Remind-Me-website/#",
     site: "Watsonville",
-    previewUrl: "assets/images/previews/eddie.png",
+    previewUrl: "assets/images/preview-eddie.png",
   },
   {
     memberFullName: "Fabian lozano",
@@ -74,7 +74,7 @@ const memberProjects = [
     repoUrl: "https://github.com/FabianDLozano/Olymipic_Country-Code_Search",
     websiteUrl: "https://fabiandlozano.github.io/Olymipic_Country-Code_Search/",
     site: "Salinas",
-    previewUrl: "assets/images/previews/fabian.png",
+    previewUrl: "assets/images/preview-fabian.png",
   },
   {
     memberFullName: "Sergio Jesus Medina-Ixta",
@@ -84,7 +84,7 @@ const memberProjects = [
     repoUrl: "https://github.com/17sergio/S24-The-World-of-Sergio",
     websiteUrl: "https://17sergio.github.io/S24-The-World-of-Sergio/index.html",
     site: "Watsonville",
-    previewUrl: "assets/images/previews/sergio.png",
+    previewUrl: "assets/images/preview-sergio.png",
   },
   {
     memberFullName: "Cesar Zagal",
@@ -93,7 +93,7 @@ const memberProjects = [
     repoUrl: "https://github.com/CesarZagal2004/website-template",
     websiteUrl: "https://cesarzagal2004.github.io/website-template/>",
     site: "Salinas",
-    previewUrl: "assets/images/previews/cesar.png",
+    previewUrl: "assets/images/preview-cesar.png",
   },
   {
     memberFullName: "Alberto Zamora",
@@ -102,7 +102,7 @@ const memberProjects = [
     repoUrl: "https://github.com/AlbertoZamora831/Gallary_Stuff",
     websiteUrl: "https://albertozamora831.github.io/Gallery_Stuff/",
     site: "Watsonville",
-    previewUrl: "assets/images/previews/alberto.png",
+    previewUrl: "assets/images/preview-alberto.png",
   },
   {
     memberFullName: "Xavier Perez",
@@ -111,7 +111,7 @@ const memberProjects = [
     repoUrl: "https://github.com/Hyperfastcat/yeezy/tree/main",
     websiteUrl: "https://hyperfastcat.github.io/yeezy/index.html",
     site: "Watsonville",
-    previewUrl: "assets/images/previews/xavier.png",
+    previewUrl: "assets/images/preview-xavier.png",
   },
 ];
 
