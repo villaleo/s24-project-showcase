@@ -180,11 +180,3 @@ function search() {
       : "none";
   }
 }
-
-function padWhitespace(n) {
-  let whitespace = "";
-  for (let i = 0; i < n; i++) {
-    whitespace += "k";
-  }
-  return whitespace;
-}
